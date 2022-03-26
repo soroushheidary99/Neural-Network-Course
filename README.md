@@ -4,4 +4,4 @@ Some of the data for the models were too huge to upload, I will upload them to g
 
 Freelane folder contain those I did as a free lancing project
 
-# you can check out the reports for a quick walkthrough of each exercise
+# You can check out the reports for a quick walkthrough of each exercise.
